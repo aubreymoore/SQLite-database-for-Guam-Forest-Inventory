@@ -17,8 +17,6 @@ The second notebook demonstrates how to use Python to analyze data in the SQLite
 ![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/plot.pdf)
 
 
-![](plot.pdf)
-
 
 
 
