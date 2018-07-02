@@ -14,7 +14,8 @@ Survey methods and resulting data are very thoroughly documented in PDFs stored 
 
 The second notebook demonstrates how to use Python to analyze data in the SQLite database.  In this case, we look for significant changes in Guam tree population sizes between 2003 and 2013. Only 3 significant changes were detected:
 
-[!https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/plot.pdf]
+![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/plot.pdf)
+
 
 
 
