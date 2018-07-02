@@ -12,12 +12,8 @@ Survey methods and resulting data are very thoroughly documented in PDFs stored 
 
 # Notebook 2: Analyze Guam Forest Inventory Survey Data
 
-The second notebook demonstrates how to use Python to analyze data in the SQLite database.  In this case, we look for significant changes in Guam tree population sizes between 2003 and 2013. Only 3 significant changes were detected:
-
-![Plot](plot.pdf)
+The second notebook demonstrates how to use Python to analyze data in the SQLite database.  In this case, we look for significant changes in Guam tree population sizes between 2003 and 2013. The notebook generates a ![plot](plot.pdf) which clearly shows that only 3 significant changes were detected.
 
 ## Notes
-
-![Optional Text](../master/plot.pdf)
 
 
